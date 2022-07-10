@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nt2W/Y0BOsh0gcQ8vDwgXkKBZh/GiH2wkUp8vFfBg2Yyj+yXJLeLwEo7KkuNeo7F/De3Rfa+/47lgJ3wdSEi6g==",
+  "dgSpecHash": "sK399Xw9CXgBv0QoIIny5zGAMtaxXOdQyJ3ccEqYrGOfPAXWpvwaRfvGIz0tCAAmYLcH3eoyUKH8mOESXcdNrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nick8\\Desktop\\C#\\login_reg\\login_reg.csproj",
+  "projectFilePath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\login_reg\\login_reg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nick8\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nick8\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
